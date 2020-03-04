@@ -9,9 +9,19 @@ Balsamiq
 Invision
 Inkscape
 
+# Great App Design
 The difference between UX and UI:
-UX -> flow, work and feelings your app
-UI -> color,design and look your app
+UX (User Experience) -> flow, work and feelings your app
+UI (User Interface)-> color,design and look your app
+
+UX has 2 layers
+1) Everything must work. Test is very important
+2) App invoks feeling a feeling or sensation of use
+
+Questions
+1) What is users' need
+2) What you think wows them
+We should maintain a balance between them.
 
 The color is important for your app. Look at color emotions. Look at Adobe color wheel. Colors are important for app.
 
