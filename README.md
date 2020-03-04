@@ -8,6 +8,7 @@ Axure
 Balsamiq
 Invision
 Inkscape
+The most important one pencil and paper!
 
 # Great App Design
 The difference between UX and UI:
@@ -23,7 +24,10 @@ Questions
 2) What you think wows them
 We should maintain a balance between them.
 
-The color is important for your app. Look at color emotions. Look at Adobe color wheel. Colors are important for app.
+UI
+The color is important for your app. Look at color emotions. Look at Adobe color wheel, Digital Telephaty and Color Lovers. Moreover, there is an article about colors http://v.ht/lad-color Colors are important for app.
+First screen gives info about the app
+
 
 Stages of UI and UX Design
 -Think users and what do I want to show them and think experiences of design.
